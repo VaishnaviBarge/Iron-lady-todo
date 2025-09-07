@@ -176,6 +176,6 @@ The app supports four main categories:
 
 Your Name - vaishnavibarge0@gmail.com
 
-Project Link: www.linkedin.com/in/vaishnavi-barge
+Linkdin : www.linkedin.com/in/vaishnavi-barge
 
 ---
