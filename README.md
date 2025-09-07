@@ -1,6 +1,6 @@
 # Task Management App
 
-A full-stack task management application built with React, Node.js, Express, and MongoDB. This app allows users to create, read, update, and delete tasks with categories, priorities, and completion status.
+A full-stack task management application built with React, Node.js, Express, MongoDB and Integrated with AI . This app allows users to create, read, update, and delete tasks with categories, priorities, and completion status.
 ![alt text](https://github.com/VaishnaviBarge/Iron-lady-todo/blob/main/todo.png?raw=true)
 
 ##  Features
